@@ -1,0 +1,7 @@
+http://kuanre.github.io/news/%E5%A3%B0%E6%98%8E/
+http://kuanre.github.io/news/link/index.html
+http://kuanre.github.io/news/tags/index.html
+http://kuanre.github.io/news/categories/index.html
+http://kuanre.github.io/news
+http://kuanre.github.io/news/tags/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/
+http://kuanre.github.io/news/categories/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4/
